@@ -1,0 +1,19 @@
+
+@media screen and (max-width:700px){
+    header,footer,ul{
+        flex-direction: column;
+    }
+    nav{
+        min-height: 30px 0px;
+    }
+}
+
+@media (max-width: 952px){
+    .menu{
+        padding-left: 20px;
+    }
+    nav ul li a{
+        font-size: 16px;
+    }
+}
+
